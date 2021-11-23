@@ -1,0 +1,9 @@
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\bin\Debug\QuanLy222.exe.config
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\bin\Debug\QuanLy222.exe
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\bin\Debug\QuanLy222.pdb
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.csprojAssemblyReference.cache
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.fLogin.resources
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.Properties.Resources.resources
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.csproj.GenerateResource.cache
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.exe
+C:\Users\Fillbert\source\repos\QuanLy222\QuanLy222\obj\Debug\QuanLy222.pdb

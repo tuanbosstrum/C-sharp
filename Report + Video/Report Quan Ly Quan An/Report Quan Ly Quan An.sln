@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Quan Ly Quan An", "Report Quan Ly Quan An\Report Quan Ly Quan An.rptproj", "{E6E7E211-6F80-43A0-BB4C-42ED60069936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Debug|Default.ActiveCfg = Debug
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Debug|Default.Build.0 = Debug
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Debug|Default.Deploy.0 = Debug
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.DebugLocal|Default.Build.0 = DebugLocal
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Release|Default.ActiveCfg = Release
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Release|Default.Build.0 = Release
+		{E6E7E211-6F80-43A0-BB4C-42ED60069936}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200C1F39-2BDC-4B47-91F3-D61D12BD646E}
+	EndGlobalSection
+EndGlobal

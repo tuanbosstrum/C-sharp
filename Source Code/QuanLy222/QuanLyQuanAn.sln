@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyQuanAn", "QuanLy222\QuanLyQuanAn.csproj", "{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup QuanLyQuanAn", "Setup QuanLyQuanAn\Setup QuanLyQuanAn.vdproj", "{FACED2FC-F6C0-4087-A465-2A990AAF2798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.All|Any CPU.Build.0 = Release|Any CPU
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E74598-C1EB-4CB7-BE8A-48CC51366EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACED2FC-F6C0-4087-A465-2A990AAF2798}.All|Any CPU.ActiveCfg = Release
+		{FACED2FC-F6C0-4087-A465-2A990AAF2798}.Debug|Any CPU.ActiveCfg = Debug
+		{FACED2FC-F6C0-4087-A465-2A990AAF2798}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D27FBEA-BCC8-4C2D-B943-4128DD8460AA}
+	EndGlobalSection
+EndGlobal
