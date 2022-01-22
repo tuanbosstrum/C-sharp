@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Project_Cafe\DTO\bin\Release\DTO.dll
+C:\Users\Admin\source\repos\Project_Cafe\DTO\bin\Release\DTO.pdb
+C:\Users\Admin\source\repos\Project_Cafe\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project_Cafe\DTO\obj\Release\DTO.dll
+C:\Users\Admin\source\repos\Project_Cafe\DTO\obj\Release\DTO.pdb

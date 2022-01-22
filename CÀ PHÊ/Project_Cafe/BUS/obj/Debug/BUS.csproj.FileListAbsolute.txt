@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\source\repos\Project_Cafe\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\Project_Cafe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Project_Cafe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project_Cafe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\source\repos\Project_Cafe\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\source\repos\Project_Cafe\BUS\obj\Debug\BUS.pdb

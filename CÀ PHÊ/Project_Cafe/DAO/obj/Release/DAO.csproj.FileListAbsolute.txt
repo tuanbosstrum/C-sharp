@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Project_Cafe\DAO\bin\Release\DAO.dll
+C:\Users\Admin\source\repos\Project_Cafe\DAO\bin\Release\DAO.pdb
+C:\Users\Admin\source\repos\Project_Cafe\DAO\bin\Release\DTO.dll
+C:\Users\Admin\source\repos\Project_Cafe\DAO\bin\Release\DTO.pdb
+C:\Users\Admin\source\repos\Project_Cafe\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Project_Cafe\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project_Cafe\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\Admin\source\repos\Project_Cafe\DAO\obj\Release\DAO.dll
+C:\Users\Admin\source\repos\Project_Cafe\DAO\obj\Release\DAO.pdb
